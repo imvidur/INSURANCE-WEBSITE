@@ -1,59 +1,27 @@
-# Insurance Website Project
+# InsuranceWebsite
 
-Welcome to the **Insurance Website Project**! This repository contains the source code for a responsive and professional-grade insurance website designed using Angular and Tailwind CSS.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Development server
 
-## About
-This project replicates a specified insurance website design to create a fully responsive, professional-grade landing page. It showcases the potential of modern web development using Angular and Tailwind CSS.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Features
-- Responsive design for various screen sizes.
-- Professional-grade UI/UX.
-- Integrated Tailwind CSS for rapid styling.
-- Multiple components such as header, hero section, services/features, call to action, footer.
-- Blog section with images and hover effects.
-- Social media integration.
+## Code scaffolding
 
-## Installation
-To get started with this project, follow these steps:
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/insurance-website.git
-    ```
+## Build
 
-2. Navigate to the project directory:
-    ```bash
-    cd insurance-website
-    ```
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
+## Running unit tests
 
-## Usage
-Provide instructions and examples for using your project. This could include:
-- Running the development server:
-    ```bash
-    ng serve
-    ```
-- Building for production:
-    ```bash
-    ng build --prod
-    ```
-- Accessing various components by navigating through the website.
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Contributing
-Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING.md) for more details. Here are some ways you can contribute:
-- Report bugs and issues.
-- Submit feature requests.
-- Create pull requests for improvements.
+## Running end-to-end tests
 
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
